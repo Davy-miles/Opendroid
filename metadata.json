@@ -1,0 +1,6 @@
+{
+  "name": "OpenDroid",
+  "description": "Loja alternativa de aplicativos Android e gerenciador de repositórios APK fora da Play Store.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

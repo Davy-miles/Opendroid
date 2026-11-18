@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" fill="none">
+  <defs>
+    <linearGradient id="ob-bg" x1="18" y1="18" x2="238" y2="238" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#1E1438"/>
+      <stop offset="55%" stop-color="#0B0816"/>
+      <stop offset="100%" stop-color="#2E1065"/>
+    </linearGradient>
+    <linearGradient id="ob-ring" x1="56" y1="48" x2="200" y2="208" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#E9D5FF"/>
+      <stop offset="50%" stop-color="#A855F7"/>
+      <stop offset="100%" stop-color="#7C3AED"/>
+    </linearGradient>
+  </defs>
+  <rect width="256" height="256" rx="56" fill="url(#ob-bg)"/>
+  <circle cx="128" cy="128" r="72" stroke="url(#ob-ring)" stroke-width="14" stroke-linecap="round" stroke-dasharray="360 72"/>
+  <path d="M128 74V146M128 146L98 116M128 146L158 116" stroke="#F5F3FF" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="86" y="166" width="84" height="12" rx="6" fill="#C084FC"/>
+  <rect x="16" y="16" width="224" height="224" rx="44" stroke="white" stroke-opacity="0.16" stroke-width="2"/>
+</svg>

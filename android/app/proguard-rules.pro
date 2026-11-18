@@ -1,0 +1,4 @@
+-keepattributes *Annotation*,Signature,InnerClasses,EnclosingMethod
+-keepclassmembers class com.phantom.store.model.** { *; }
+-dontwarn okhttp3.**
+-dontwarn okio.**

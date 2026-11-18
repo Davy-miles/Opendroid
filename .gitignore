@@ -1,0 +1,21 @@
+node_modules/
+build/
+dist/
+dev-dist/
+coverage/
+.playwright-cli/
+.aistudio/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# Android Studio / Gradle
+android/.gradle/
+android/build/
+android/app/build/
+android/.idea/
+android/local.properties
+*.apk
+*.aab
+*.iml
